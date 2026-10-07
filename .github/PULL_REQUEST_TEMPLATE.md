@@ -1,3 +1,8 @@
+<!-- THE INLET IS SHUT FOR NOW. Please don't open a pull request against the
+     canonical repository: there is no steward to graft it yet, and it would sit
+     unread. The reason is in README.md. This template is kept so the intake
+     format is on the record and ready the day the inlet opens. -->
+
 <!-- goblin steel — a contribution to the commons -->
 
 ## What this contributes
