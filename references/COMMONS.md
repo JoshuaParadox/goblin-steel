@@ -4,6 +4,14 @@ A spoon of starter goes out; something should be able to come back. The commons 
 
 This turns propagation from one-way (hand out a spoon) into a loop (hand out a spoon, receive proven forks back). The loop is the whole point: a culture that only ever leaves home never learns from the kitchens it lands in.
 
+> **Status: specified, not yet open.** What follows describes the commons in
+> full, as designed. The canonical inlet is not accepting contributions, because
+> a pool with no steward is a pool that rots — the reason is in `README.md`.
+> The specification is published anyway, so the design can be read, argued with,
+> and run inside any fork before the inlet exists. R-0003 applies to the commons
+> as much as to a rule: supersede, never delete. Something not yet open is
+> marked, not hidden.
+
 ## The two-way inlet
 
 Two commands carry the traffic; both obey the forge laws.
@@ -39,7 +47,7 @@ An open inlet invites the obvious worry: won't it fill with noise? The disciplin
 Git is the natural home, because git already *is* this discipline for code — fork, branch, never truly delete, merge as reconciliation. Mapped onto the commons:
 
 - **Fork** the canonical repository → your own copy to feed.
-- **Contribute** a bundle → open a pull request or an issue against the canonical repo.
+- **Contribute** a bundle → open a pull request or an issue against the canonical repo. *(Shut for now.)*
 - **Reconcile** → a steward (or an automated pass) grafts accepted bundles as variants; the repo's history keeps every submission, promoted or not.
 - **Promote** → the network's feedback, gathered over time, is what moves a variant to trunk in the canonical mother.
 
